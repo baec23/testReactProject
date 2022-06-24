@@ -6,14 +6,9 @@ body {
     margin: 0;
 }
 
-.headerLeft{
-    font-family: Inter, sans-serif;
-    align-content: center;
-    display: flex;
-    flex-direction: row;
-}
-
-.headerLeft > li{
-    font-size: xxx-large;
-    list-style: none;
+.navbar{
+    display:flex;
+    align-items: center;
+    background: #21222A;
+    padding: 30px 25px;
 }
